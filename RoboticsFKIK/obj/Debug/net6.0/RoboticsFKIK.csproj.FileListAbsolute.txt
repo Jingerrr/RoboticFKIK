@@ -1,0 +1,15 @@
+C:\Users\86130\Desktop\cg\RoboticsFKIK\RoboticsFKIK\bin\Debug\net6.0\RoboticsFKIK.exe
+C:\Users\86130\Desktop\cg\RoboticsFKIK\RoboticsFKIK\bin\Debug\net6.0\RoboticsFKIK.deps.json
+C:\Users\86130\Desktop\cg\RoboticsFKIK\RoboticsFKIK\bin\Debug\net6.0\RoboticsFKIK.runtimeconfig.json
+C:\Users\86130\Desktop\cg\RoboticsFKIK\RoboticsFKIK\bin\Debug\net6.0\RoboticsFKIK.dll
+C:\Users\86130\Desktop\cg\RoboticsFKIK\RoboticsFKIK\bin\Debug\net6.0\RoboticsFKIK.pdb
+C:\Users\86130\Desktop\cg\RoboticsFKIK\RoboticsFKIK\obj\Debug\net6.0\RoboticsFKIK.csproj.AssemblyReference.cache
+C:\Users\86130\Desktop\cg\RoboticsFKIK\RoboticsFKIK\obj\Debug\net6.0\RoboticsFKIK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86130\Desktop\cg\RoboticsFKIK\RoboticsFKIK\obj\Debug\net6.0\RoboticsFKIK.AssemblyInfoInputs.cache
+C:\Users\86130\Desktop\cg\RoboticsFKIK\RoboticsFKIK\obj\Debug\net6.0\RoboticsFKIK.AssemblyInfo.cs
+C:\Users\86130\Desktop\cg\RoboticsFKIK\RoboticsFKIK\obj\Debug\net6.0\RoboticsFKIK.csproj.CoreCompileInputs.cache
+C:\Users\86130\Desktop\cg\RoboticsFKIK\RoboticsFKIK\obj\Debug\net6.0\RoboticsFKIK.dll
+C:\Users\86130\Desktop\cg\RoboticsFKIK\RoboticsFKIK\obj\Debug\net6.0\refint\RoboticsFKIK.dll
+C:\Users\86130\Desktop\cg\RoboticsFKIK\RoboticsFKIK\obj\Debug\net6.0\RoboticsFKIK.pdb
+C:\Users\86130\Desktop\cg\RoboticsFKIK\RoboticsFKIK\obj\Debug\net6.0\RoboticsFKIK.genruntimeconfig.cache
+C:\Users\86130\Desktop\cg\RoboticsFKIK\RoboticsFKIK\obj\Debug\net6.0\ref\RoboticsFKIK.dll
